@@ -64,3 +64,15 @@ By the end of the project, we will have:
 
 ### ✔ 5. End-to-End Workflow
 
+🛠️ Tech Stack
+
+AI: PyTorch / TensorFlow
+
+Backend: FastAPI or Flask
+
+Blockchain: Solidity + Hardhat + Web3.py
+
+Frontend: HTML/JS or React
+
+Optional: IPFS for off-chain storage
+
